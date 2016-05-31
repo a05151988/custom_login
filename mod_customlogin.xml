@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.1.0" client="site" method="upgrade">
+    <name>MOD_CUSTOMLOGIN_TITLE</name>
+    <author>Ryan Yu</author>
+    <version>1.0.0</version>
+    <description>MOD_CUSTOMLOGIN_DESC</description>
+	<languages folder="language">
+	   <language tag="zh-TW">zh-TW/zh-TW.mod_customlogin.ini</language>
+	</languages>
+    <files>
+        <filename>mod_customlogin.xml</filename>
+        <filename module="mod_customlogin">mod_customlogin.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+    </files>
+    <config>
+    </config>
+</extension>
