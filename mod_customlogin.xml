@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.1.0" client="site" method="upgrade">
-    <name>MOD_CUSTOMLOGIN_TITLE</name>
+    <name>modal登入</name>
     <author>Ryan Yu</author>
     <version>1.0.0</version>
-    <description>MOD_CUSTOMLOGIN_DESC</description>
+    <description>使用modal進行登入</description>
 	<languages folder="language">
 	   <language tag="zh-TW">zh-TW/zh-TW.mod_customlogin.ini</language>
 	</languages>
